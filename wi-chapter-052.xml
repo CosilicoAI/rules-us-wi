@@ -1,0 +1,1155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WI-Statutes">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-wi/act/statutes/chapter-52"/>
+          <FRBRuri value="/akn/us-wi/act/statutes/chapter-52"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#wisconsin-legislature"/>
+          <FRBRcountry value="us-wi"/>
+          <FRBRnumber value="52"/>
+          <FRBRname value="WI-Statutes"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-wi/act/statutes/chapter-52/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-wi/act/statutes/chapter-52/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-wi/act/statutes/chapter-52/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-wi/act/statutes/chapter-52/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="wisconsin-legislature" href="https://docs.legis.wisconsin.gov" showAs="Wisconsin State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_52">
+        <num>52</num>
+        <heading>Support of Dependents</heading>
+        <section eId="sec_52-01">
+          <num>52.01</num>
+          <heading>Definitions</heading>
+          <subsection eId="52-01__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.01(1)  “Abuse” has the meaning given in s.46.90 (1) (a).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>52.01(1m)  “Financial exploitation” has the meaning given in s.46.90 (1) (ed).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.01(2)  “Functional impairment” means any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.01(4)  “Health care provider” has the meaning given in s.155.01 (7).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.01(5)  “Neglect” has the meaning given in s.46.90 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.01(6)  “Supported decision-making” means a process of supporting and accommodating an adult with a functional impairment to enable the adult to make life decisions, including decisions related to where the adult wants to live, the services, supports, and medical care the adult wants to receive, whom the adult wants to live with, and where the adult wants to work, without impeding the self-determination of the adult.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>52.01(7)  “Supported decision-making agreement” is an agreement between an adult with a functional impairment and a supporter entered into under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>52.01(8)  “Supporter” means an adult who is willing to enter into an agreement with an adult with a functional impairment to provide supported decision-making.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.10(1)  If an adult with a functional impairment decides voluntarily, without coercion, to enter into a supported decision-making agreement with a supporter, that adult may, in the agreement, authorize the supporter to do any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.10(2)  A supporter is not a surrogate decision maker for the adult with a functional impairment and does not have the authority to sign legal documents on behalf of the adult with a functional impairment or bind the adult with a functional impairment to a legal agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.14(1)  Except as otherwise provided in this section, a supported decision-making agreement extends until terminated by either party or by the terms of the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.14(2)  A supported decision-making agreement is terminated if any of the following is true:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.14(3)  An adult with a functional impairment may revoke his or her supported decision-making agreement and invalidate the supported decision-making agreement at any time by doing any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.14(4)  Unless the supported decision-making agreement provides a different method for the supporter’s resignation, a supporter may resign by giving notice to the adult with a functional impairment.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.16(1)  A supporter is only authorized to assist the adult with a functional impairment in accessing, collecting, or obtaining information that is relevant to a decision authorized under the supported decision-making agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.16(2)  A supporter may assist with accessing or obtaining any information that will help the adult with a functional impairment make health care decisions, including medical, psychological, financial, education, or treatment records or research under ss.51.30and146.83and the federal Health Insurance Portability and Accountability Act of 1996,45 CFR 164.502.  A supporter may only access or obtain patient health care records, as defined under s.146.81 (4), if the adult with a functional impairment has signed a release allowing the supporter to see protected health information, as defined under s.146.816 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.16(3)  A supporter may assist with accessing or obtaining any information on education records under the federal Family Educational Rights and Privacy Act of 1974,20 USC 1232g, if the adult with a functional impairment has signed a release allowing the supporter to access information under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.16(4)  The supporter shall ensure the information under this section is kept privileged and confidential, as applicable, and is not subject to unauthorized access, use, or disclosure.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.16(5)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment continues to have unrestricted access to personal information without the assistance of a supporter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.16(6)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment is able to request and receive assistance on any decision that is not covered under the supported decision-making agreement at any time.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.18(1)  An adult with a functional impairment and his or her supporter entering into a supported decision-making agreement must sign and date the agreement in the presence of 2 or more subscribing witnesses or a notary public.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.18(2)  If the adult with a functional impairment and his or her supporter choose to sign and date the supported decision-making agreement before witnesses, the attesting witnesses must be at least 18 years of age.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-01__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.20(1)  A supported decision-making agreement is valid if it is in writing, entered into voluntarily as described under s.52.10, signed and dated as described under s.52.18, and in substantially the following form:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_52-03">
+          <num>52.03</num>
+          <heading>Definitions</heading>
+          <subsection eId="52-03__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.01(1)  “Abuse” has the meaning given in s.46.90 (1) (a).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>52.01(1m)  “Financial exploitation” has the meaning given in s.46.90 (1) (ed).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.01(2)  “Functional impairment” means any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.01(4)  “Health care provider” has the meaning given in s.155.01 (7).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.01(5)  “Neglect” has the meaning given in s.46.90 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.01(6)  “Supported decision-making” means a process of supporting and accommodating an adult with a functional impairment to enable the adult to make life decisions, including decisions related to where the adult wants to live, the services, supports, and medical care the adult wants to receive, whom the adult wants to live with, and where the adult wants to work, without impeding the self-determination of the adult.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>52.01(7)  “Supported decision-making agreement” is an agreement between an adult with a functional impairment and a supporter entered into under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>52.01(8)  “Supporter” means an adult who is willing to enter into an agreement with an adult with a functional impairment to provide supported decision-making.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.10(1)  If an adult with a functional impairment decides voluntarily, without coercion, to enter into a supported decision-making agreement with a supporter, that adult may, in the agreement, authorize the supporter to do any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.10(2)  A supporter is not a surrogate decision maker for the adult with a functional impairment and does not have the authority to sign legal documents on behalf of the adult with a functional impairment or bind the adult with a functional impairment to a legal agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.14(1)  Except as otherwise provided in this section, a supported decision-making agreement extends until terminated by either party or by the terms of the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.14(2)  A supported decision-making agreement is terminated if any of the following is true:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.14(3)  An adult with a functional impairment may revoke his or her supported decision-making agreement and invalidate the supported decision-making agreement at any time by doing any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.14(4)  Unless the supported decision-making agreement provides a different method for the supporter’s resignation, a supporter may resign by giving notice to the adult with a functional impairment.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.16(1)  A supporter is only authorized to assist the adult with a functional impairment in accessing, collecting, or obtaining information that is relevant to a decision authorized under the supported decision-making agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.16(2)  A supporter may assist with accessing or obtaining any information that will help the adult with a functional impairment make health care decisions, including medical, psychological, financial, education, or treatment records or research under ss.51.30and146.83and the federal Health Insurance Portability and Accountability Act of 1996,45 CFR 164.502.  A supporter may only access or obtain patient health care records, as defined under s.146.81 (4), if the adult with a functional impairment has signed a release allowing the supporter to see protected health information, as defined under s.146.816 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.16(3)  A supporter may assist with accessing or obtaining any information on education records under the federal Family Educational Rights and Privacy Act of 1974,20 USC 1232g, if the adult with a functional impairment has signed a release allowing the supporter to access information under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.16(4)  The supporter shall ensure the information under this section is kept privileged and confidential, as applicable, and is not subject to unauthorized access, use, or disclosure.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.16(5)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment continues to have unrestricted access to personal information without the assistance of a supporter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.16(6)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment is able to request and receive assistance on any decision that is not covered under the supported decision-making agreement at any time.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.18(1)  An adult with a functional impairment and his or her supporter entering into a supported decision-making agreement must sign and date the agreement in the presence of 2 or more subscribing witnesses or a notary public.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.18(2)  If the adult with a functional impairment and his or her supporter choose to sign and date the supported decision-making agreement before witnesses, the attesting witnesses must be at least 18 years of age.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-03__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.20(1)  A supported decision-making agreement is valid if it is in writing, entered into voluntarily as described under s.52.10, signed and dated as described under s.52.18, and in substantially the following form:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_52-10">
+          <num>52.10</num>
+          <heading>Definitions</heading>
+          <subsection eId="52-10__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.01(1)  “Abuse” has the meaning given in s.46.90 (1) (a).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>52.01(1m)  “Financial exploitation” has the meaning given in s.46.90 (1) (ed).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.01(2)  “Functional impairment” means any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.01(4)  “Health care provider” has the meaning given in s.155.01 (7).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.01(5)  “Neglect” has the meaning given in s.46.90 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.01(6)  “Supported decision-making” means a process of supporting and accommodating an adult with a functional impairment to enable the adult to make life decisions, including decisions related to where the adult wants to live, the services, supports, and medical care the adult wants to receive, whom the adult wants to live with, and where the adult wants to work, without impeding the self-determination of the adult.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>52.01(7)  “Supported decision-making agreement” is an agreement between an adult with a functional impairment and a supporter entered into under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>52.01(8)  “Supporter” means an adult who is willing to enter into an agreement with an adult with a functional impairment to provide supported decision-making.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.10(1)  If an adult with a functional impairment decides voluntarily, without coercion, to enter into a supported decision-making agreement with a supporter, that adult may, in the agreement, authorize the supporter to do any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.10(2)  A supporter is not a surrogate decision maker for the adult with a functional impairment and does not have the authority to sign legal documents on behalf of the adult with a functional impairment or bind the adult with a functional impairment to a legal agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.14(1)  Except as otherwise provided in this section, a supported decision-making agreement extends until terminated by either party or by the terms of the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.14(2)  A supported decision-making agreement is terminated if any of the following is true:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.14(3)  An adult with a functional impairment may revoke his or her supported decision-making agreement and invalidate the supported decision-making agreement at any time by doing any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.14(4)  Unless the supported decision-making agreement provides a different method for the supporter’s resignation, a supporter may resign by giving notice to the adult with a functional impairment.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.16(1)  A supporter is only authorized to assist the adult with a functional impairment in accessing, collecting, or obtaining information that is relevant to a decision authorized under the supported decision-making agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.16(2)  A supporter may assist with accessing or obtaining any information that will help the adult with a functional impairment make health care decisions, including medical, psychological, financial, education, or treatment records or research under ss.51.30and146.83and the federal Health Insurance Portability and Accountability Act of 1996,45 CFR 164.502.  A supporter may only access or obtain patient health care records, as defined under s.146.81 (4), if the adult with a functional impairment has signed a release allowing the supporter to see protected health information, as defined under s.146.816 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.16(3)  A supporter may assist with accessing or obtaining any information on education records under the federal Family Educational Rights and Privacy Act of 1974,20 USC 1232g, if the adult with a functional impairment has signed a release allowing the supporter to access information under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.16(4)  The supporter shall ensure the information under this section is kept privileged and confidential, as applicable, and is not subject to unauthorized access, use, or disclosure.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.16(5)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment continues to have unrestricted access to personal information without the assistance of a supporter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.16(6)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment is able to request and receive assistance on any decision that is not covered under the supported decision-making agreement at any time.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.18(1)  An adult with a functional impairment and his or her supporter entering into a supported decision-making agreement must sign and date the agreement in the presence of 2 or more subscribing witnesses or a notary public.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.18(2)  If the adult with a functional impairment and his or her supporter choose to sign and date the supported decision-making agreement before witnesses, the attesting witnesses must be at least 18 years of age.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-10__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.20(1)  A supported decision-making agreement is valid if it is in writing, entered into voluntarily as described under s.52.10, signed and dated as described under s.52.18, and in substantially the following form:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_52-12">
+          <num>52.12</num>
+          <heading>Agreement not evidence of incapacity or incompetency</heading>
+          <subsection eId="52-12__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>52.01(1m)  “Financial exploitation” has the meaning given in s.46.90 (1) (ed).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.01(2)  “Functional impairment” means any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.01(4)  “Health care provider” has the meaning given in s.155.01 (7).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.01(5)  “Neglect” has the meaning given in s.46.90 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.01(6)  “Supported decision-making” means a process of supporting and accommodating an adult with a functional impairment to enable the adult to make life decisions, including decisions related to where the adult wants to live, the services, supports, and medical care the adult wants to receive, whom the adult wants to live with, and where the adult wants to work, without impeding the self-determination of the adult.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>52.01(7)  “Supported decision-making agreement” is an agreement between an adult with a functional impairment and a supporter entered into under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>52.01(8)  “Supporter” means an adult who is willing to enter into an agreement with an adult with a functional impairment to provide supported decision-making.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.10(1)  If an adult with a functional impairment decides voluntarily, without coercion, to enter into a supported decision-making agreement with a supporter, that adult may, in the agreement, authorize the supporter to do any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.10(2)  A supporter is not a surrogate decision maker for the adult with a functional impairment and does not have the authority to sign legal documents on behalf of the adult with a functional impairment or bind the adult with a functional impairment to a legal agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.14(1)  Except as otherwise provided in this section, a supported decision-making agreement extends until terminated by either party or by the terms of the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.14(2)  A supported decision-making agreement is terminated if any of the following is true:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.14(3)  An adult with a functional impairment may revoke his or her supported decision-making agreement and invalidate the supported decision-making agreement at any time by doing any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.14(4)  Unless the supported decision-making agreement provides a different method for the supporter’s resignation, a supporter may resign by giving notice to the adult with a functional impairment.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.16(1)  A supporter is only authorized to assist the adult with a functional impairment in accessing, collecting, or obtaining information that is relevant to a decision authorized under the supported decision-making agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.16(2)  A supporter may assist with accessing or obtaining any information that will help the adult with a functional impairment make health care decisions, including medical, psychological, financial, education, or treatment records or research under ss.51.30and146.83and the federal Health Insurance Portability and Accountability Act of 1996,45 CFR 164.502.  A supporter may only access or obtain patient health care records, as defined under s.146.81 (4), if the adult with a functional impairment has signed a release allowing the supporter to see protected health information, as defined under s.146.816 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.16(3)  A supporter may assist with accessing or obtaining any information on education records under the federal Family Educational Rights and Privacy Act of 1974,20 USC 1232g, if the adult with a functional impairment has signed a release allowing the supporter to access information under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.16(4)  The supporter shall ensure the information under this section is kept privileged and confidential, as applicable, and is not subject to unauthorized access, use, or disclosure.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.16(5)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment continues to have unrestricted access to personal information without the assistance of a supporter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.16(6)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment is able to request and receive assistance on any decision that is not covered under the supported decision-making agreement at any time.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.18(1)  An adult with a functional impairment and his or her supporter entering into a supported decision-making agreement must sign and date the agreement in the presence of 2 or more subscribing witnesses or a notary public.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.18(2)  If the adult with a functional impairment and his or her supporter choose to sign and date the supported decision-making agreement before witnesses, the attesting witnesses must be at least 18 years of age.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-12__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.20(1)  A supported decision-making agreement is valid if it is in writing, entered into voluntarily as described under s.52.10, signed and dated as described under s.52.18, and in substantially the following form:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_52-14">
+          <num>52.14</num>
+          <heading>Agreement not evidence of incapacity or incompetency</heading>
+          <subsection eId="52-14__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.01(4)  “Health care provider” has the meaning given in s.155.01 (7).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.01(5)  “Neglect” has the meaning given in s.46.90 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.01(6)  “Supported decision-making” means a process of supporting and accommodating an adult with a functional impairment to enable the adult to make life decisions, including decisions related to where the adult wants to live, the services, supports, and medical care the adult wants to receive, whom the adult wants to live with, and where the adult wants to work, without impeding the self-determination of the adult.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>52.01(7)  “Supported decision-making agreement” is an agreement between an adult with a functional impairment and a supporter entered into under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>52.01(8)  “Supporter” means an adult who is willing to enter into an agreement with an adult with a functional impairment to provide supported decision-making.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.10(1)  If an adult with a functional impairment decides voluntarily, without coercion, to enter into a supported decision-making agreement with a supporter, that adult may, in the agreement, authorize the supporter to do any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.10(2)  A supporter is not a surrogate decision maker for the adult with a functional impairment and does not have the authority to sign legal documents on behalf of the adult with a functional impairment or bind the adult with a functional impairment to a legal agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.14(1)  Except as otherwise provided in this section, a supported decision-making agreement extends until terminated by either party or by the terms of the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.14(2)  A supported decision-making agreement is terminated if any of the following is true:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.14(3)  An adult with a functional impairment may revoke his or her supported decision-making agreement and invalidate the supported decision-making agreement at any time by doing any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.14(4)  Unless the supported decision-making agreement provides a different method for the supporter’s resignation, a supporter may resign by giving notice to the adult with a functional impairment.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.16(1)  A supporter is only authorized to assist the adult with a functional impairment in accessing, collecting, or obtaining information that is relevant to a decision authorized under the supported decision-making agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.16(2)  A supporter may assist with accessing or obtaining any information that will help the adult with a functional impairment make health care decisions, including medical, psychological, financial, education, or treatment records or research under ss.51.30and146.83and the federal Health Insurance Portability and Accountability Act of 1996,45 CFR 164.502.  A supporter may only access or obtain patient health care records, as defined under s.146.81 (4), if the adult with a functional impairment has signed a release allowing the supporter to see protected health information, as defined under s.146.816 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.16(3)  A supporter may assist with accessing or obtaining any information on education records under the federal Family Educational Rights and Privacy Act of 1974,20 USC 1232g, if the adult with a functional impairment has signed a release allowing the supporter to access information under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.16(4)  The supporter shall ensure the information under this section is kept privileged and confidential, as applicable, and is not subject to unauthorized access, use, or disclosure.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.16(5)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment continues to have unrestricted access to personal information without the assistance of a supporter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.16(6)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment is able to request and receive assistance on any decision that is not covered under the supported decision-making agreement at any time.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.18(1)  An adult with a functional impairment and his or her supporter entering into a supported decision-making agreement must sign and date the agreement in the presence of 2 or more subscribing witnesses or a notary public.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.18(2)  If the adult with a functional impairment and his or her supporter choose to sign and date the supported decision-making agreement before witnesses, the attesting witnesses must be at least 18 years of age.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-14__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.20(1)  A supported decision-making agreement is valid if it is in writing, entered into voluntarily as described under s.52.10, signed and dated as described under s.52.18, and in substantially the following form:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_52-16">
+          <num>52.16</num>
+          <heading>Agreement not evidence of incapacity or incompetency</heading>
+          <subsection eId="52-16__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>52.01(7)  “Supported decision-making agreement” is an agreement between an adult with a functional impairment and a supporter entered into under this chapter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>52.01(8)  “Supporter” means an adult who is willing to enter into an agreement with an adult with a functional impairment to provide supported decision-making.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.10(1)  If an adult with a functional impairment decides voluntarily, without coercion, to enter into a supported decision-making agreement with a supporter, that adult may, in the agreement, authorize the supporter to do any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.10(2)  A supporter is not a surrogate decision maker for the adult with a functional impairment and does not have the authority to sign legal documents on behalf of the adult with a functional impairment or bind the adult with a functional impairment to a legal agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.14(1)  Except as otherwise provided in this section, a supported decision-making agreement extends until terminated by either party or by the terms of the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.14(2)  A supported decision-making agreement is terminated if any of the following is true:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.14(3)  An adult with a functional impairment may revoke his or her supported decision-making agreement and invalidate the supported decision-making agreement at any time by doing any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.14(4)  Unless the supported decision-making agreement provides a different method for the supporter’s resignation, a supporter may resign by giving notice to the adult with a functional impairment.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.16(1)  A supporter is only authorized to assist the adult with a functional impairment in accessing, collecting, or obtaining information that is relevant to a decision authorized under the supported decision-making agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.16(2)  A supporter may assist with accessing or obtaining any information that will help the adult with a functional impairment make health care decisions, including medical, psychological, financial, education, or treatment records or research under ss.51.30and146.83and the federal Health Insurance Portability and Accountability Act of 1996,45 CFR 164.502.  A supporter may only access or obtain patient health care records, as defined under s.146.81 (4), if the adult with a functional impairment has signed a release allowing the supporter to see protected health information, as defined under s.146.816 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.16(3)  A supporter may assist with accessing or obtaining any information on education records under the federal Family Educational Rights and Privacy Act of 1974,20 USC 1232g, if the adult with a functional impairment has signed a release allowing the supporter to access information under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.16(4)  The supporter shall ensure the information under this section is kept privileged and confidential, as applicable, and is not subject to unauthorized access, use, or disclosure.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.16(5)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment continues to have unrestricted access to personal information without the assistance of a supporter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.16(6)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment is able to request and receive assistance on any decision that is not covered under the supported decision-making agreement at any time.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.18(1)  An adult with a functional impairment and his or her supporter entering into a supported decision-making agreement must sign and date the agreement in the presence of 2 or more subscribing witnesses or a notary public.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.18(2)  If the adult with a functional impairment and his or her supporter choose to sign and date the supported decision-making agreement before witnesses, the attesting witnesses must be at least 18 years of age.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-16__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.20(1)  A supported decision-making agreement is valid if it is in writing, entered into voluntarily as described under s.52.10, signed and dated as described under s.52.18, and in substantially the following form:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_52-18">
+          <num>52.18</num>
+          <heading>Authority of supporter</heading>
+          <subsection eId="52-18__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.10(1)  If an adult with a functional impairment decides voluntarily, without coercion, to enter into a supported decision-making agreement with a supporter, that adult may, in the agreement, authorize the supporter to do any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.10(2)  A supporter is not a surrogate decision maker for the adult with a functional impairment and does not have the authority to sign legal documents on behalf of the adult with a functional impairment or bind the adult with a functional impairment to a legal agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.14(1)  Except as otherwise provided in this section, a supported decision-making agreement extends until terminated by either party or by the terms of the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.14(2)  A supported decision-making agreement is terminated if any of the following is true:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.14(3)  An adult with a functional impairment may revoke his or her supported decision-making agreement and invalidate the supported decision-making agreement at any time by doing any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.14(4)  Unless the supported decision-making agreement provides a different method for the supporter’s resignation, a supporter may resign by giving notice to the adult with a functional impairment.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.16(1)  A supporter is only authorized to assist the adult with a functional impairment in accessing, collecting, or obtaining information that is relevant to a decision authorized under the supported decision-making agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.16(2)  A supporter may assist with accessing or obtaining any information that will help the adult with a functional impairment make health care decisions, including medical, psychological, financial, education, or treatment records or research under ss.51.30and146.83and the federal Health Insurance Portability and Accountability Act of 1996,45 CFR 164.502.  A supporter may only access or obtain patient health care records, as defined under s.146.81 (4), if the adult with a functional impairment has signed a release allowing the supporter to see protected health information, as defined under s.146.816 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.16(3)  A supporter may assist with accessing or obtaining any information on education records under the federal Family Educational Rights and Privacy Act of 1974,20 USC 1232g, if the adult with a functional impairment has signed a release allowing the supporter to access information under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.16(4)  The supporter shall ensure the information under this section is kept privileged and confidential, as applicable, and is not subject to unauthorized access, use, or disclosure.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.16(5)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment continues to have unrestricted access to personal information without the assistance of a supporter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.16(6)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment is able to request and receive assistance on any decision that is not covered under the supported decision-making agreement at any time.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.18(1)  An adult with a functional impairment and his or her supporter entering into a supported decision-making agreement must sign and date the agreement in the presence of 2 or more subscribing witnesses or a notary public.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.18(2)  If the adult with a functional impairment and his or her supporter choose to sign and date the supported decision-making agreement before witnesses, the attesting witnesses must be at least 18 years of age.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-18__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.20(1)  A supported decision-making agreement is valid if it is in writing, entered into voluntarily as described under s.52.10, signed and dated as described under s.52.18, and in substantially the following form:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_52-20">
+          <num>52.20</num>
+          <heading>Authority of supporter</heading>
+          <subsection eId="52-20__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.10(2)  A supporter is not a surrogate decision maker for the adult with a functional impairment and does not have the authority to sign legal documents on behalf of the adult with a functional impairment or bind the adult with a functional impairment to a legal agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.14(1)  Except as otherwise provided in this section, a supported decision-making agreement extends until terminated by either party or by the terms of the agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.14(2)  A supported decision-making agreement is terminated if any of the following is true:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.14(3)  An adult with a functional impairment may revoke his or her supported decision-making agreement and invalidate the supported decision-making agreement at any time by doing any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.14(4)  Unless the supported decision-making agreement provides a different method for the supporter’s resignation, a supporter may resign by giving notice to the adult with a functional impairment.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.16(1)  A supporter is only authorized to assist the adult with a functional impairment in accessing, collecting, or obtaining information that is relevant to a decision authorized under the supported decision-making agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.16(2)  A supporter may assist with accessing or obtaining any information that will help the adult with a functional impairment make health care decisions, including medical, psychological, financial, education, or treatment records or research under ss.51.30and146.83and the federal Health Insurance Portability and Accountability Act of 1996,45 CFR 164.502.  A supporter may only access or obtain patient health care records, as defined under s.146.81 (4), if the adult with a functional impairment has signed a release allowing the supporter to see protected health information, as defined under s.146.816 (1) (f).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.16(3)  A supporter may assist with accessing or obtaining any information on education records under the federal Family Educational Rights and Privacy Act of 1974,20 USC 1232g, if the adult with a functional impairment has signed a release allowing the supporter to access information under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.16(4)  The supporter shall ensure the information under this section is kept privileged and confidential, as applicable, and is not subject to unauthorized access, use, or disclosure.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.16(5)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment continues to have unrestricted access to personal information without the assistance of a supporter.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.16(6)  Notwithstanding the existence of a supported decision-making agreement, an adult with a functional impairment is able to request and receive assistance on any decision that is not covered under the supported decision-making agreement at any time.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.18(1)  An adult with a functional impairment and his or her supporter entering into a supported decision-making agreement must sign and date the agreement in the presence of 2 or more subscribing witnesses or a notary public.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.18(2)  If the adult with a functional impairment and his or her supporter choose to sign and date the supported decision-making agreement before witnesses, the attesting witnesses must be at least 18 years of age.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-20__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.20(1)  A supported decision-making agreement is valid if it is in writing, entered into voluntarily as described under s.52.10, signed and dated as described under s.52.18, and in substantially the following form:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_52-30">
+          <num>52.30</num>
+          <heading>Reliance on agreement; limitation of liability</heading>
+          <subsection eId="52-30__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.20(2)  The department of health services shall prepare and provide access to a supported decision-making agreement instrument and accompanying information for adults with functional impairments, family members of adults with functional impairments, education professionals and school districts, health care and social service professionals, county clerks, and local bar associations.  The department may charge a reasonable fee for the cost of preparation and distribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-30__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.30(1)  A person who receives the original or a copy of a supported decision-making agreement shall rely on the agreement, except if the person has cause to believe that the adult with a functional impairment is being abused, neglected, unduly influenced, or financially exploited by the supporter as described under s.52.32.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-30__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.30(2)  A person is not subject to criminal or civil liability and has not engaged in professional misconduct for an act or omission if the act or omission is done in good faith and in reliance on a supported decision-making agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-30__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.30(3)  Any health care provider that respects and acts consistently with the authority given to a supporter by a duly executed supported decision-making agreement shall be immune from any action alleging that the agreement was invalid unless the entity, custodian, or organization had actual knowledge or notice that the adult with a functional impairment had revoked such authorization, that the agreement was invalid, or that the supporter had committed abuse, neglect, or financial exploitation as described in s.52.14 (2) (a).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-30__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.30(4)  Any health care provider that provides health care based on the consent of an adult with a functional impairment, made with supports and services provided through a duly executed supported decision-making agreement, shall be immune from any action alleging that the adult with a functional impairment lacked capacity to provide informed consent unless the entity, custodian, or organization had actual knowledge or notice that the adult with a functional impairment had revoked such authorization, that the agreement was invalid, or that the supporter had committed abuse, neglect, or financial exploitation as described in s.52.14 (2) (a).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-30__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.30(5)  Any public or private entity, custodian, or organization that discloses personal information about an adult with a functional impairment to a supporter who is authorized to access, collect, or obtain or assist the adult with a functional impairment in accessing, collecting, or obtaining that information shall be immune from any action alleging that it improperly or unlawfully disclosed such information to the supporter unless the entity, custodian, or organization had actual knowledge that the adult with a functional impairment had revoked such authorization.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-30__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.30(6)  This section may not be construed to provide immunity from actions alleging that a health care provider has done any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-30__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>52.30(7)  The existence or availability of a supported decision-making agreement does not relieve a health care provider of any legal obligation to provide services to individuals with disabilities, including the obligation to provide reasonable accommodations or auxiliary aids and services, including interpretation services and communication supports to individuals with disabilities under the federal Americans with Disabilities Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-30__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>52.30(8)  A supporter acting in the context of a valid supported decision-making agreement is immune from civil liability for his or her acts or omissions in performing duties as the supporter if he or she performs the duties in good faith, in conformance with the supported decision-making agreement or document of the adult with a functional impairment, and with the degree and prudence that an ordinarily prudent person exercises in his or her own affairs.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-30__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.32(1)  If a person who receives a copy of a supported decision-making agreement or is aware of the existence of a supported decision-making agreement has cause to believe that the adult with a functional impairment is being abused, neglected, or financially exploited by the supporter, the person may report under s.46.90or55.043the alleged abuse, neglect, or financial exploitation.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-30__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.32(2)  Nothing in this section may be construed as eliminating or limiting a person’s requirement to report under any other statute or regulation.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_52-32">
+          <num>52.32</num>
+          <heading>Reliance on agreement; limitation of liability</heading>
+          <subsection eId="52-32__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.20(2)  The department of health services shall prepare and provide access to a supported decision-making agreement instrument and accompanying information for adults with functional impairments, family members of adults with functional impairments, education professionals and school districts, health care and social service professionals, county clerks, and local bar associations.  The department may charge a reasonable fee for the cost of preparation and distribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-32__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.30(1)  A person who receives the original or a copy of a supported decision-making agreement shall rely on the agreement, except if the person has cause to believe that the adult with a functional impairment is being abused, neglected, unduly influenced, or financially exploited by the supporter as described under s.52.32.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-32__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.30(2)  A person is not subject to criminal or civil liability and has not engaged in professional misconduct for an act or omission if the act or omission is done in good faith and in reliance on a supported decision-making agreement.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-32__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>52.30(3)  Any health care provider that respects and acts consistently with the authority given to a supporter by a duly executed supported decision-making agreement shall be immune from any action alleging that the agreement was invalid unless the entity, custodian, or organization had actual knowledge or notice that the adult with a functional impairment had revoked such authorization, that the agreement was invalid, or that the supporter had committed abuse, neglect, or financial exploitation as described in s.52.14 (2) (a).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-32__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>52.30(4)  Any health care provider that provides health care based on the consent of an adult with a functional impairment, made with supports and services provided through a duly executed supported decision-making agreement, shall be immune from any action alleging that the adult with a functional impairment lacked capacity to provide informed consent unless the entity, custodian, or organization had actual knowledge or notice that the adult with a functional impairment had revoked such authorization, that the agreement was invalid, or that the supporter had committed abuse, neglect, or financial exploitation as described in s.52.14 (2) (a).</p>
+            </content>
+          </subsection>
+          <subsection eId="52-32__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>52.30(5)  Any public or private entity, custodian, or organization that discloses personal information about an adult with a functional impairment to a supporter who is authorized to access, collect, or obtain or assist the adult with a functional impairment in accessing, collecting, or obtaining that information shall be immune from any action alleging that it improperly or unlawfully disclosed such information to the supporter unless the entity, custodian, or organization had actual knowledge that the adult with a functional impairment had revoked such authorization.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-32__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>52.30(6)  This section may not be construed to provide immunity from actions alleging that a health care provider has done any of the following:</p>
+            </content>
+          </subsection>
+          <subsection eId="52-32__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>52.30(7)  The existence or availability of a supported decision-making agreement does not relieve a health care provider of any legal obligation to provide services to individuals with disabilities, including the obligation to provide reasonable accommodations or auxiliary aids and services, including interpretation services and communication supports to individuals with disabilities under the federal Americans with Disabilities Act.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-32__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>52.30(8)  A supporter acting in the context of a valid supported decision-making agreement is immune from civil liability for his or her acts or omissions in performing duties as the supporter if he or she performs the duties in good faith, in conformance with the supported decision-making agreement or document of the adult with a functional impairment, and with the degree and prudence that an ordinarily prudent person exercises in his or her own affairs.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-32__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>52.32(1)  If a person who receives a copy of a supported decision-making agreement or is aware of the existence of a supported decision-making agreement has cause to believe that the adult with a functional impairment is being abused, neglected, or financially exploited by the supporter, the person may report under s.46.90or55.043the alleged abuse, neglect, or financial exploitation.</p>
+            </content>
+          </subsection>
+          <subsection eId="52-32__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>52.32(2)  Nothing in this section may be construed as eliminating or limiting a person’s requirement to report under any other statute or regulation.</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
