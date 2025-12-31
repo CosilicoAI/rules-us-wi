@@ -1,0 +1,1679 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<akomaNtoso xmlns="http://docs.oasis-open.org/legaldocml/ns/akn/3.0">
+  <act name="WI-Statutes">
+    <meta>
+      <identification source="#arch">
+        <FRBRWork>
+          <FRBRthis value="/akn/us-wi/act/statutes/chapter-79"/>
+          <FRBRuri value="/akn/us-wi/act/statutes/chapter-79"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#wisconsin-legislature"/>
+          <FRBRcountry value="us-wi"/>
+          <FRBRnumber value="79"/>
+          <FRBRname value="WI-Statutes"/>
+        </FRBRWork>
+        <FRBRExpression>
+          <FRBRthis value="/akn/us-wi/act/statutes/chapter-79/eng@2025-12-31"/>
+          <FRBRuri value="/akn/us-wi/act/statutes/chapter-79/eng@2025-12-31"/>
+          <FRBRdate date="2025-12-31" name="publication"/>
+          <FRBRauthor href="#arch"/>
+          <FRBRlanguage language="eng"/>
+        </FRBRExpression>
+        <FRBRManifestation>
+          <FRBRthis value="/akn/us-wi/act/statutes/chapter-79/eng@2025-12-31/main.xml"/>
+          <FRBRuri value="/akn/us-wi/act/statutes/chapter-79/eng@2025-12-31/main.xml"/>
+          <FRBRdate date="2025-12-31" name="generation"/>
+          <FRBRauthor href="#arch"/>
+        </FRBRManifestation>
+      </identification>
+      <references source="#arch">
+        <TLCOrganization eId="arch" href="https://cosilico.ai" showAs="Cosilico Arch"/>
+        <TLCOrganization eId="wisconsin-legislature" href="https://docs.legis.wisconsin.gov" showAs="Wisconsin State Legislature"/>
+      </references>
+    </meta>
+    <body>
+      <chapter eId="chp_79">
+        <num>79</num>
+        <heading>State Revenue Sharing and Tax Relief</heading>
+        <section eId="sec_79-036">
+          <num>79.036</num>
+          <heading>County and municipal aid; beginning in 2024</heading>
+          <subsection eId="79-036__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.035(5)  Except as provided in subs.(6),(7), and(8), for the distribution in 2013 and in subsequent years ending with 2023, each county and municipality shall receive a payment under this section that is equal to the amount of the payment determined for the county or municipality under this section for 2012.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-036__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>79.035(6)  Beginning with the distributions in 2016 and ending with the distributions in 2023, the annual payment under s.79.02 (1)to a county in which a sports and entertainment arena, as defined in s.229.41 (11e), is located shall be the amount otherwise determined for the county under this section, minus $4,000,000.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-036__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>79.035(7)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-036__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>79.035(8)  Beginning with the distributions in 2021 and ending with the distributions in 2023, the department of revenue shall increase the payment to each county and municipality under this section by the amount the county or municipality reported under s.66.0137 (5) (d)for the year prior to the previous calendar year.  The department shall decrease the total amount to be distributed to all counties and municipalities by the total of all amounts reported under s.66.0137 (5) (d)for the year prior to the previous calendar year and reduce each payment to a county or municipality under this section in proportion to the entity’s share of the total distribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-036__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.036(1)  Except as provided in subs.(2),(3), and(4), for the distribution in 2024 and in subsequent years, each county and municipality shall receive payments under this section as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-036__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.036(2)  Beginning with the distributions in 2024 and ending with the distributions in 2035, the annual payment under s.79.02 (1)to a county in which a sports and entertainment arena, as defined in s.229.41 (11e), is located shall be the amount otherwise determined for the county under this section, minus $4,000,000.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-036__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.036(3)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-036__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.036(4)  Beginning with the distributions in 2024, the department of revenue shall increase the payment to each county and municipality under this section by the amount the county or municipality reported under s.66.0137 (5) (d)for the year prior to the previous calendar year.  The department shall decrease the total amount to be distributed to all counties and municipalities by the total of all amounts reported under s.66.0137 (5) (d)for the year prior to the previous calendar year and reduce each payment to a county or municipality under this section in proportion to the entity’s share of the total distribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-036__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.037(1)  Beginning with the distributions in 2024, each county and municipality shall receive in each year a payment from the supplemental county and municipal aid account to be used for law enforcement, fire protection, emergency medical services, emergency response communications, public works, courts, and transportation, except that no amounts received under this subsection may be used for administrative services.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-036__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.037(2)  Subject to any reduction required under sub.(4), in 2024, the department of revenue shall determine the amount of the payments under this section as follows:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-037">
+          <num>79.037</num>
+          <heading>County and municipal aid; beginning in 2024</heading>
+          <subsection eId="79-037__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.035(5)  Except as provided in subs.(6),(7), and(8), for the distribution in 2013 and in subsequent years ending with 2023, each county and municipality shall receive a payment under this section that is equal to the amount of the payment determined for the county or municipality under this section for 2012.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>79.035(6)  Beginning with the distributions in 2016 and ending with the distributions in 2023, the annual payment under s.79.02 (1)to a county in which a sports and entertainment arena, as defined in s.229.41 (11e), is located shall be the amount otherwise determined for the county under this section, minus $4,000,000.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>79.035(7)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>79.035(8)  Beginning with the distributions in 2021 and ending with the distributions in 2023, the department of revenue shall increase the payment to each county and municipality under this section by the amount the county or municipality reported under s.66.0137 (5) (d)for the year prior to the previous calendar year.  The department shall decrease the total amount to be distributed to all counties and municipalities by the total of all amounts reported under s.66.0137 (5) (d)for the year prior to the previous calendar year and reduce each payment to a county or municipality under this section in proportion to the entity’s share of the total distribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.036(1)  Except as provided in subs.(2),(3), and(4), for the distribution in 2024 and in subsequent years, each county and municipality shall receive payments under this section as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.036(2)  Beginning with the distributions in 2024 and ending with the distributions in 2035, the annual payment under s.79.02 (1)to a county in which a sports and entertainment arena, as defined in s.229.41 (11e), is located shall be the amount otherwise determined for the county under this section, minus $4,000,000.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.036(3)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.036(4)  Beginning with the distributions in 2024, the department of revenue shall increase the payment to each county and municipality under this section by the amount the county or municipality reported under s.66.0137 (5) (d)for the year prior to the previous calendar year.  The department shall decrease the total amount to be distributed to all counties and municipalities by the total of all amounts reported under s.66.0137 (5) (d)for the year prior to the previous calendar year and reduce each payment to a county or municipality under this section in proportion to the entity’s share of the total distribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.037(1)  Beginning with the distributions in 2024, each county and municipality shall receive in each year a payment from the supplemental county and municipal aid account to be used for law enforcement, fire protection, emergency medical services, emergency response communications, public works, courts, and transportation, except that no amounts received under this subsection may be used for administrative services.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.037(2)  Subject to any reduction required under sub.(4), in 2024, the department of revenue shall determine the amount of the payments under this section as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.037(3)  Subject to any reduction required under sub.(4), for the distribution in 2025 and subsequent years, each county and municipality shall receive a payment under this section equal to the proportion of the total payments from the supplemental county and municipal aid account under s.25.491 (9)that the county or municipality received in 2024, or if the total of payments received in 2024 by a county is reduced under sub.(4), the proportion of the total payments from the supplemental county and municipal aid account under s.25.491 (9)that the county would have received in 2024 without that reduction, multiplied by the amount for the year in the supplemental county and municipal aid account under s.25.491 (9).</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.037(4)  For the distribution in 2024 and subsequent years until 2050, if a county fails to make the full amount of a deposit required under s.229.695by July 1, the department of revenue shall reduce the county’s total of payments under this section for that year by the difference between the amount of the deposit required under s.229.695and the amount of any deposit made by July 1 of that year and direct the department of administration to pay to the baseball park facilities improvement segregated fund under s.229.687the amount of the reduction.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-037__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.038(1)  Innovation grants.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-038">
+          <num>79.038</num>
+          <heading>Innovation grants and innovation planning grants</heading>
+          <subsection eId="79-038__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.037(3)  Subject to any reduction required under sub.(4), for the distribution in 2025 and subsequent years, each county and municipality shall receive a payment under this section equal to the proportion of the total payments from the supplemental county and municipal aid account under s.25.491 (9)that the county or municipality received in 2024, or if the total of payments received in 2024 by a county is reduced under sub.(4), the proportion of the total payments from the supplemental county and municipal aid account under s.25.491 (9)that the county would have received in 2024 without that reduction, multiplied by the amount for the year in the supplemental county and municipal aid account under s.25.491 (9).</p>
+            </content>
+          </subsection>
+          <subsection eId="79-038__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.037(4)  For the distribution in 2024 and subsequent years until 2050, if a county fails to make the full amount of a deposit required under s.229.695by July 1, the department of revenue shall reduce the county’s total of payments under this section for that year by the difference between the amount of the deposit required under s.229.695and the amount of any deposit made by July 1 of that year and direct the department of administration to pay to the baseball park facilities improvement segregated fund under s.229.687the amount of the reduction.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-038__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.038(1)  Innovation grants.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-038__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.038(2)  Innovation planning grants.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-038__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.039(1)  For the distribution in 2024 and subsequent years, if in any year a county or municipality fails to satisfy the requirements under s.62.90 (5) (a)or66.0608 (2m), the secretary of administration shall reduce the county’s or municipality’s total of payments under ss.79.036and79.037for the next year by 15 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-038__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>79.039(1m)  For the distribution in 2024 and subsequent years, if in any year a municipality fails to satisfy the requirements under s.62.90 (5) (bm), the secretary of administration shall reduce the municipality’s payment under s.79.037for the next year by 15 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-038__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.039(2)</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-039">
+          <num>79.039</num>
+          <heading>Certain reductions</heading>
+          <subsection eId="79-039__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.038(2)  Innovation planning grants.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.039(1)  For the distribution in 2024 and subsequent years, if in any year a county or municipality fails to satisfy the requirements under s.62.90 (5) (a)or66.0608 (2m), the secretary of administration shall reduce the county’s or municipality’s total of payments under ss.79.036and79.037for the next year by 15 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>79.039(1m)  For the distribution in 2024 and subsequent years, if in any year a municipality fails to satisfy the requirements under s.62.90 (5) (bm), the secretary of administration shall reduce the municipality’s payment under s.79.037for the next year by 15 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.039(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.04(1)  Annually, except for production plants that begin operation after December 31, 2003, or begin operation as a repowered production plant after December 31, 2003, and except as provided in sub.(4m), the department of administration, upon certification by the department of revenue, shall distribute to a municipality having within its boundaries a production plant, general structure, or substation, used by a light, heat, or power company assessed under s.76.28 (2)or76.29 (2), except property described in s.66.0813unless the production plant or substation is owned or operated by a local governmental unit located outside of the municipality, or by an electric cooperative assessed under ss.76.07and76.48, respectively, or by a municipal electric company under s.66.0825the amount determined as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.04(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_3m">
+            <num>(3m)</num>
+            <content>
+              <p>79.04(3m)  For purposes of determining the amount of the payments under subs.(1)and(2), the payments for a municipality and county in which an ash disposal facility that is owned and operated by an electric cooperative is operating prior to July 30, 2003, shall be calculated to include an amount that is equal to the net book value of the ash disposal facility multiplied by 2.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.04(4)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_4m">
+            <num>(4m)</num>
+            <content>
+              <p>79.04(4m)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.04(5)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>79.04(6)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-039__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>79.04(7)</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-04">
+          <num>79.04</num>
+          <heading>Certain reductions</heading>
+          <subsection eId="79-04__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.038(2)  Innovation planning grants.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.039(1)  For the distribution in 2024 and subsequent years, if in any year a county or municipality fails to satisfy the requirements under s.62.90 (5) (a)or66.0608 (2m), the secretary of administration shall reduce the county’s or municipality’s total of payments under ss.79.036and79.037for the next year by 15 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>79.039(1m)  For the distribution in 2024 and subsequent years, if in any year a municipality fails to satisfy the requirements under s.62.90 (5) (bm), the secretary of administration shall reduce the municipality’s payment under s.79.037for the next year by 15 percent.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.039(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.04(1)  Annually, except for production plants that begin operation after December 31, 2003, or begin operation as a repowered production plant after December 31, 2003, and except as provided in sub.(4m), the department of administration, upon certification by the department of revenue, shall distribute to a municipality having within its boundaries a production plant, general structure, or substation, used by a light, heat, or power company assessed under s.76.28 (2)or76.29 (2), except property described in s.66.0813unless the production plant or substation is owned or operated by a local governmental unit located outside of the municipality, or by an electric cooperative assessed under ss.76.07and76.48, respectively, or by a municipal electric company under s.66.0825the amount determined as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.04(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_3m">
+            <num>(3m)</num>
+            <content>
+              <p>79.04(3m)  For purposes of determining the amount of the payments under subs.(1)and(2), the payments for a municipality and county in which an ash disposal facility that is owned and operated by an electric cooperative is operating prior to July 30, 2003, shall be calculated to include an amount that is equal to the net book value of the ash disposal facility multiplied by 2.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.04(4)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_4m">
+            <num>(4m)</num>
+            <content>
+              <p>79.04(4m)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.04(5)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>79.04(6)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>79.04(7)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-04__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>79.04(8)  All of the following apply to the payments for property of a production plant that includes multiple power generation units, except that this subsection applies only if the production plant’s first power generation unit permanently ceases generating electricity after March 23, 2024:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-05">
+          <num>79.05</num>
+          <heading>Expenditure restraint incentive program</heading>
+          <subsection eId="79-05__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>79.04(6)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>79.04(7)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>79.04(8)  All of the following apply to the payments for property of a production plant that includes multiple power generation units, except that this subsection applies only if the production plant’s first power generation unit permanently ceases generating electricity after March 23, 2024:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.05(1)  In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.05(2)  A municipality is eligible for a payment under sub.(3)if it fulfills all of the following requirements:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_2m">
+            <num>(2m)</num>
+            <content>
+              <p>79.05(2m)  Annually, on October 1, the department of revenue shall certify the appropriate percentage change in the consumer price index that is to be used in the requirement under sub.(1) (am)to the joint committee on finance.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.05(3)  Each municipality that qualifies under sub.(2)shall receive a payment calculated as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.05(4)  Notwithstanding subs.(2)and(3), in 2025, each municipality shall receive a payment under this section that is equal to the amount of the payment received by the municipality under this section in 2024.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.05(5)  No municipality may, for the purpose of qualifying for a payment under this section, establish a fund, other than a general fund, that does not conform to generally accepted accounting principles promulgated by the governmental accounting standards board or its successor bodies.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>79.05(6)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>79.05(7)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.095(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.095(2)  Reporting. Each municipality shall report to the department the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.095(3)  Review by department. The department shall adjust each rate reported under sub.(2) (b)to a full-value rate.  The department shall review and correct the information submitted under sub.(2) (a), shall determine the full value of all of the property reported under sub.(2) (a)and of all the property under s.70.995 (12r)and, on or before October 1, shall notify each taxing jurisdiction of the full value of the property that is exempt under s.70.11 (39)and(39m)and that is located in the jurisdiction.  The department shall adjust the full value that is reported to taxing jurisdictions under this subsection in the year after an error occurs or a value has been changed due to an appeal.  All disputes between the department and municipalities about the value of the property reported under sub.(2) (a)or of the property under s.70.995 (12r)shall be resolved by using the procedures under s.70.995 (8).</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.095(4)  Payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.095(5)  Sunset. Subsections(2),(3), and(4) (a)do not apply with regard to the payments made under this section after July 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.096(1)  Beginning in 2019, and in each year thereafter, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (27) (b)for the property tax assessments as of January 1, 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.096(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.096(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.  For a tax incremental district that terminated prior to July 10, 2021, if the tax incremental district was active for the 2017 tax year and would have received a payment under this subsection if not for its termination, the department of administration shall, with the distribution in 2022, distribute to the municipality and applicable taxing jurisdictions the sum of all such payments that would have been paid to the tax incremental district from its termination date to 2022 had the district not terminated.  In 2023, and in each year thereafter, the department of administration shall distribute to the municipality and the applicable taxing jurisdictions the annual amount the tax incremental district would have received under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-05__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.096(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-08">
+          <num>79.08</num>
+          <heading>Corrections</heading>
+          <subsection eId="79-08__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.05(1)  In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.05(2)  A municipality is eligible for a payment under sub.(3)if it fulfills all of the following requirements:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_2m">
+            <num>(2m)</num>
+            <content>
+              <p>79.05(2m)  Annually, on October 1, the department of revenue shall certify the appropriate percentage change in the consumer price index that is to be used in the requirement under sub.(1) (am)to the joint committee on finance.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.05(3)  Each municipality that qualifies under sub.(2)shall receive a payment calculated as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.05(4)  Notwithstanding subs.(2)and(3), in 2025, each municipality shall receive a payment under this section that is equal to the amount of the payment received by the municipality under this section in 2024.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.05(5)  No municipality may, for the purpose of qualifying for a payment under this section, establish a fund, other than a general fund, that does not conform to generally accepted accounting principles promulgated by the governmental accounting standards board or its successor bodies.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>79.05(6)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>79.05(7)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.095(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.095(2)  Reporting. Each municipality shall report to the department the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.095(3)  Review by department. The department shall adjust each rate reported under sub.(2) (b)to a full-value rate.  The department shall review and correct the information submitted under sub.(2) (a), shall determine the full value of all of the property reported under sub.(2) (a)and of all the property under s.70.995 (12r)and, on or before October 1, shall notify each taxing jurisdiction of the full value of the property that is exempt under s.70.11 (39)and(39m)and that is located in the jurisdiction.  The department shall adjust the full value that is reported to taxing jurisdictions under this subsection in the year after an error occurs or a value has been changed due to an appeal.  All disputes between the department and municipalities about the value of the property reported under sub.(2) (a)or of the property under s.70.995 (12r)shall be resolved by using the procedures under s.70.995 (8).</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.095(4)  Payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.095(5)  Sunset. Subsections(2),(3), and(4) (a)do not apply with regard to the payments made under this section after July 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.096(1)  Beginning in 2019, and in each year thereafter, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (27) (b)for the property tax assessments as of January 1, 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.096(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.096(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.  For a tax incremental district that terminated prior to July 10, 2021, if the tax incremental district was active for the 2017 tax year and would have received a payment under this subsection if not for its termination, the department of administration shall, with the distribution in 2022, distribute to the municipality and applicable taxing jurisdictions the sum of all such payments that would have been paid to the tax incremental district from its termination date to 2022 had the district not terminated.  In 2023, and in each year thereafter, the department of administration shall distribute to the municipality and the applicable taxing jurisdictions the annual amount the tax incremental district would have received under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.096(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.0965(1)  Beginning in 2025, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (28)for the property tax assessments as of January 1, 2023.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.0965(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.0965(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.0965(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.097(1)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.097(2)  Each municipality that is eligible to receive a payment under this section shall report to the department of revenue the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.097(3)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-08__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.10(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-09">
+          <num>79.09</num>
+          <heading>Corrections</heading>
+          <subsection eId="79-09__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.05(2)  A municipality is eligible for a payment under sub.(3)if it fulfills all of the following requirements:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_2m">
+            <num>(2m)</num>
+            <content>
+              <p>79.05(2m)  Annually, on October 1, the department of revenue shall certify the appropriate percentage change in the consumer price index that is to be used in the requirement under sub.(1) (am)to the joint committee on finance.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.05(3)  Each municipality that qualifies under sub.(2)shall receive a payment calculated as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.05(4)  Notwithstanding subs.(2)and(3), in 2025, each municipality shall receive a payment under this section that is equal to the amount of the payment received by the municipality under this section in 2024.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.05(5)  No municipality may, for the purpose of qualifying for a payment under this section, establish a fund, other than a general fund, that does not conform to generally accepted accounting principles promulgated by the governmental accounting standards board or its successor bodies.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>79.05(6)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>79.05(7)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.095(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.095(2)  Reporting. Each municipality shall report to the department the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.095(3)  Review by department. The department shall adjust each rate reported under sub.(2) (b)to a full-value rate.  The department shall review and correct the information submitted under sub.(2) (a), shall determine the full value of all of the property reported under sub.(2) (a)and of all the property under s.70.995 (12r)and, on or before October 1, shall notify each taxing jurisdiction of the full value of the property that is exempt under s.70.11 (39)and(39m)and that is located in the jurisdiction.  The department shall adjust the full value that is reported to taxing jurisdictions under this subsection in the year after an error occurs or a value has been changed due to an appeal.  All disputes between the department and municipalities about the value of the property reported under sub.(2) (a)or of the property under s.70.995 (12r)shall be resolved by using the procedures under s.70.995 (8).</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.095(4)  Payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.095(5)  Sunset. Subsections(2),(3), and(4) (a)do not apply with regard to the payments made under this section after July 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.096(1)  Beginning in 2019, and in each year thereafter, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (27) (b)for the property tax assessments as of January 1, 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.096(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.096(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.  For a tax incremental district that terminated prior to July 10, 2021, if the tax incremental district was active for the 2017 tax year and would have received a payment under this subsection if not for its termination, the department of administration shall, with the distribution in 2022, distribute to the municipality and applicable taxing jurisdictions the sum of all such payments that would have been paid to the tax incremental district from its termination date to 2022 had the district not terminated.  In 2023, and in each year thereafter, the department of administration shall distribute to the municipality and the applicable taxing jurisdictions the annual amount the tax incremental district would have received under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.096(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.0965(1)  Beginning in 2025, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (28)for the property tax assessments as of January 1, 2023.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.0965(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.0965(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.0965(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.097(1)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.097(2)  Each municipality that is eligible to receive a payment under this section shall report to the department of revenue the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.097(3)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-09__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.10(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-095">
+          <num>79.095</num>
+          <heading>Corrections</heading>
+          <subsection eId="79-095__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.05(2)  A municipality is eligible for a payment under sub.(3)if it fulfills all of the following requirements:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_2m">
+            <num>(2m)</num>
+            <content>
+              <p>79.05(2m)  Annually, on October 1, the department of revenue shall certify the appropriate percentage change in the consumer price index that is to be used in the requirement under sub.(1) (am)to the joint committee on finance.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.05(3)  Each municipality that qualifies under sub.(2)shall receive a payment calculated as follows:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.05(4)  Notwithstanding subs.(2)and(3), in 2025, each municipality shall receive a payment under this section that is equal to the amount of the payment received by the municipality under this section in 2024.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.05(5)  No municipality may, for the purpose of qualifying for a payment under this section, establish a fund, other than a general fund, that does not conform to generally accepted accounting principles promulgated by the governmental accounting standards board or its successor bodies.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_6">
+            <num>(6)</num>
+            <content>
+              <p>79.05(6)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>79.05(7)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.095(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.095(2)  Reporting. Each municipality shall report to the department the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.095(3)  Review by department. The department shall adjust each rate reported under sub.(2) (b)to a full-value rate.  The department shall review and correct the information submitted under sub.(2) (a), shall determine the full value of all of the property reported under sub.(2) (a)and of all the property under s.70.995 (12r)and, on or before October 1, shall notify each taxing jurisdiction of the full value of the property that is exempt under s.70.11 (39)and(39m)and that is located in the jurisdiction.  The department shall adjust the full value that is reported to taxing jurisdictions under this subsection in the year after an error occurs or a value has been changed due to an appeal.  All disputes between the department and municipalities about the value of the property reported under sub.(2) (a)or of the property under s.70.995 (12r)shall be resolved by using the procedures under s.70.995 (8).</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.095(4)  Payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.095(5)  Sunset. Subsections(2),(3), and(4) (a)do not apply with regard to the payments made under this section after July 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.096(1)  Beginning in 2019, and in each year thereafter, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (27) (b)for the property tax assessments as of January 1, 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.096(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.096(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.  For a tax incremental district that terminated prior to July 10, 2021, if the tax incremental district was active for the 2017 tax year and would have received a payment under this subsection if not for its termination, the department of administration shall, with the distribution in 2022, distribute to the municipality and applicable taxing jurisdictions the sum of all such payments that would have been paid to the tax incremental district from its termination date to 2022 had the district not terminated.  In 2023, and in each year thereafter, the department of administration shall distribute to the municipality and the applicable taxing jurisdictions the annual amount the tax incremental district would have received under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.096(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.0965(1)  Beginning in 2025, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (28)for the property tax assessments as of January 1, 2023.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.0965(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.0965(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.0965(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.097(1)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.097(2)  Each municipality that is eligible to receive a payment under this section shall report to the department of revenue the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.097(3)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-095__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.10(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-096">
+          <num>79.096</num>
+          <heading>Corrections</heading>
+          <subsection eId="79-096__subsec_7">
+            <num>(7)</num>
+            <content>
+              <p>79.05(7)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.095(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.095(2)  Reporting. Each municipality shall report to the department the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.095(3)  Review by department. The department shall adjust each rate reported under sub.(2) (b)to a full-value rate.  The department shall review and correct the information submitted under sub.(2) (a), shall determine the full value of all of the property reported under sub.(2) (a)and of all the property under s.70.995 (12r)and, on or before October 1, shall notify each taxing jurisdiction of the full value of the property that is exempt under s.70.11 (39)and(39m)and that is located in the jurisdiction.  The department shall adjust the full value that is reported to taxing jurisdictions under this subsection in the year after an error occurs or a value has been changed due to an appeal.  All disputes between the department and municipalities about the value of the property reported under sub.(2) (a)or of the property under s.70.995 (12r)shall be resolved by using the procedures under s.70.995 (8).</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.095(4)  Payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.095(5)  Sunset. Subsections(2),(3), and(4) (a)do not apply with regard to the payments made under this section after July 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.096(1)  Beginning in 2019, and in each year thereafter, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (27) (b)for the property tax assessments as of January 1, 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.096(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.096(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.  For a tax incremental district that terminated prior to July 10, 2021, if the tax incremental district was active for the 2017 tax year and would have received a payment under this subsection if not for its termination, the department of administration shall, with the distribution in 2022, distribute to the municipality and applicable taxing jurisdictions the sum of all such payments that would have been paid to the tax incremental district from its termination date to 2022 had the district not terminated.  In 2023, and in each year thereafter, the department of administration shall distribute to the municipality and the applicable taxing jurisdictions the annual amount the tax incremental district would have received under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.096(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.0965(1)  Beginning in 2025, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (28)for the property tax assessments as of January 1, 2023.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.0965(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.0965(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.0965(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.097(1)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.097(2)  Each municipality that is eligible to receive a payment under this section shall report to the department of revenue the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.097(3)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.10(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>79.10(1m)  Notice to the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.10(2)  Notice to municipalities.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.10(4)  School levy tax credit. Except as provided in sub.(5m), the amount appropriated under s.20.835 (3) (b)shall be distributed to municipalities in proportion to their share of the sum of average school tax levies for all municipalities.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.10(5)  Lottery and gaming credit. Each municipality shall receive, from the appropriation under s.20.835 (3) (q), an amount determined by multiplying the school tax rate by the estimated fair market value, not exceeding the value determined under sub.(11) (c), of every principal dwelling that is located in the municipality and for which a claim for the credit under sub.(9) (bm)is made by the owner of the principal dwelling.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_5m">
+            <num>(5m)</num>
+            <content>
+              <p>79.10(5m)  First dollar credit. Each municipality shall receive, from the appropriation under s.20.835 (3) (b), an amount determined by multiplying the school tax rate by the estimated fair market value, not exceeding the value determined under sub.(11) (d), of every parcel of real property with improvements that is located in the municipality.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_6m">
+            <num>(6m)</num>
+            <content>
+              <p>79.10(6m)  Corrections of state property tax credit payments.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-096__subsec_7m">
+            <num>(7m)</num>
+            <content>
+              <p>79.10(7m)  Distribution.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-0965">
+          <num>79.0965</num>
+          <heading>Administration</heading>
+          <subsection eId="79-0965__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.095(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.095(2)  Reporting. Each municipality shall report to the department the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.095(3)  Review by department. The department shall adjust each rate reported under sub.(2) (b)to a full-value rate.  The department shall review and correct the information submitted under sub.(2) (a), shall determine the full value of all of the property reported under sub.(2) (a)and of all the property under s.70.995 (12r)and, on or before October 1, shall notify each taxing jurisdiction of the full value of the property that is exempt under s.70.11 (39)and(39m)and that is located in the jurisdiction.  The department shall adjust the full value that is reported to taxing jurisdictions under this subsection in the year after an error occurs or a value has been changed due to an appeal.  All disputes between the department and municipalities about the value of the property reported under sub.(2) (a)or of the property under s.70.995 (12r)shall be resolved by using the procedures under s.70.995 (8).</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.095(4)  Payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.095(5)  Sunset. Subsections(2),(3), and(4) (a)do not apply with regard to the payments made under this section after July 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.096(1)  Beginning in 2019, and in each year thereafter, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (27) (b)for the property tax assessments as of January 1, 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.096(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.096(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.  For a tax incremental district that terminated prior to July 10, 2021, if the tax incremental district was active for the 2017 tax year and would have received a payment under this subsection if not for its termination, the department of administration shall, with the distribution in 2022, distribute to the municipality and applicable taxing jurisdictions the sum of all such payments that would have been paid to the tax incremental district from its termination date to 2022 had the district not terminated.  In 2023, and in each year thereafter, the department of administration shall distribute to the municipality and the applicable taxing jurisdictions the annual amount the tax incremental district would have received under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.096(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.0965(1)  Beginning in 2025, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (28)for the property tax assessments as of January 1, 2023.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.0965(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.0965(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.0965(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.097(1)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.097(2)  Each municipality that is eligible to receive a payment under this section shall report to the department of revenue the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.097(3)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.10(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>79.10(1m)  Notice to the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.10(2)  Notice to municipalities.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.10(4)  School levy tax credit. Except as provided in sub.(5m), the amount appropriated under s.20.835 (3) (b)shall be distributed to municipalities in proportion to their share of the sum of average school tax levies for all municipalities.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.10(5)  Lottery and gaming credit. Each municipality shall receive, from the appropriation under s.20.835 (3) (q), an amount determined by multiplying the school tax rate by the estimated fair market value, not exceeding the value determined under sub.(11) (c), of every principal dwelling that is located in the municipality and for which a claim for the credit under sub.(9) (bm)is made by the owner of the principal dwelling.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_5m">
+            <num>(5m)</num>
+            <content>
+              <p>79.10(5m)  First dollar credit. Each municipality shall receive, from the appropriation under s.20.835 (3) (b), an amount determined by multiplying the school tax rate by the estimated fair market value, not exceeding the value determined under sub.(11) (d), of every parcel of real property with improvements that is located in the municipality.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_6m">
+            <num>(6m)</num>
+            <content>
+              <p>79.10(6m)  Corrections of state property tax credit payments.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-0965__subsec_7m">
+            <num>(7m)</num>
+            <content>
+              <p>79.10(7m)  Distribution.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-097">
+          <num>79.097</num>
+          <heading>State aid; personal property</heading>
+          <subsection eId="79-097__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.095(3)  Review by department. The department shall adjust each rate reported under sub.(2) (b)to a full-value rate.  The department shall review and correct the information submitted under sub.(2) (a), shall determine the full value of all of the property reported under sub.(2) (a)and of all the property under s.70.995 (12r)and, on or before October 1, shall notify each taxing jurisdiction of the full value of the property that is exempt under s.70.11 (39)and(39m)and that is located in the jurisdiction.  The department shall adjust the full value that is reported to taxing jurisdictions under this subsection in the year after an error occurs or a value has been changed due to an appeal.  All disputes between the department and municipalities about the value of the property reported under sub.(2) (a)or of the property under s.70.995 (12r)shall be resolved by using the procedures under s.70.995 (8).</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.095(4)  Payment.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.095(5)  Sunset. Subsections(2),(3), and(4) (a)do not apply with regard to the payments made under this section after July 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.096(1)  Beginning in 2019, and in each year thereafter, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (27) (b)for the property tax assessments as of January 1, 2017.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.096(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.096(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.  For a tax incremental district that terminated prior to July 10, 2021, if the tax incremental district was active for the 2017 tax year and would have received a payment under this subsection if not for its termination, the department of administration shall, with the distribution in 2022, distribute to the municipality and applicable taxing jurisdictions the sum of all such payments that would have been paid to the tax incremental district from its termination date to 2022 had the district not terminated.  In 2023, and in each year thereafter, the department of administration shall distribute to the municipality and the applicable taxing jurisdictions the annual amount the tax incremental district would have received under this subsection.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.096(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.0965(1)  Beginning in 2025, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (28)for the property tax assessments as of January 1, 2023.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.0965(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.0965(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.0965(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.097(1)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.097(2)  Each municipality that is eligible to receive a payment under this section shall report to the department of revenue the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.097(3)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.10(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>79.10(1m)  Notice to the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.10(2)  Notice to municipalities.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.10(4)  School levy tax credit. Except as provided in sub.(5m), the amount appropriated under s.20.835 (3) (b)shall be distributed to municipalities in proportion to their share of the sum of average school tax levies for all municipalities.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.10(5)  Lottery and gaming credit. Each municipality shall receive, from the appropriation under s.20.835 (3) (q), an amount determined by multiplying the school tax rate by the estimated fair market value, not exceeding the value determined under sub.(11) (c), of every principal dwelling that is located in the municipality and for which a claim for the credit under sub.(9) (bm)is made by the owner of the principal dwelling.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_5m">
+            <num>(5m)</num>
+            <content>
+              <p>79.10(5m)  First dollar credit. Each municipality shall receive, from the appropriation under s.20.835 (3) (b), an amount determined by multiplying the school tax rate by the estimated fair market value, not exceeding the value determined under sub.(11) (d), of every parcel of real property with improvements that is located in the municipality.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_6m">
+            <num>(6m)</num>
+            <content>
+              <p>79.10(6m)  Corrections of state property tax credit payments.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_7m">
+            <num>(7m)</num>
+            <content>
+              <p>79.10(7m)  Distribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>79.10(8)  Delayed payments.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-097__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>79.10(9)  Credit against tax liability.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-10">
+          <num>79.10</num>
+          <heading>State aid; repeal of personal property tax</heading>
+          <subsection eId="79-10__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.096(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.0965(1)  Beginning in 2025, the department of administration shall pay to each taxing jurisdiction, as defined in s.79.095 (1) (c), an amount equal to the property taxes levied on the items of personal property described under s.70.111 (28)for the property tax assessments as of January 1, 2023.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.0965(2)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.0965(3)  Each taxing jurisdiction shall attribute to each tax incremental district within the taxing jurisdiction the district’s proportionate share of the amount the taxing jurisdiction receives under sub.(1).  The amount that would have been paid to a tax incremental district under this subsection shall be distributed to the municipality and applicable taxing jurisdictions in the year following the termination of the tax incremental district and in each year thereafter.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.0965(4)  The department of revenue shall certify the amount of the payment due each taxing jurisdiction under sub.(1)to the department of administration, and the department of administration shall make the payment on or before the first Monday in May.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.097(1)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.097(2)  Each municipality that is eligible to receive a payment under this section shall report to the department of revenue the following information:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.097(3)</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.10(1)  Definitions. In this section:</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_1m">
+            <num>(1m)</num>
+            <content>
+              <p>79.10(1m)  Notice to the department.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.10(2)  Notice to municipalities.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_4">
+            <num>(4)</num>
+            <content>
+              <p>79.10(4)  School levy tax credit. Except as provided in sub.(5m), the amount appropriated under s.20.835 (3) (b)shall be distributed to municipalities in proportion to their share of the sum of average school tax levies for all municipalities.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_5">
+            <num>(5)</num>
+            <content>
+              <p>79.10(5)  Lottery and gaming credit. Each municipality shall receive, from the appropriation under s.20.835 (3) (q), an amount determined by multiplying the school tax rate by the estimated fair market value, not exceeding the value determined under sub.(11) (c), of every principal dwelling that is located in the municipality and for which a claim for the credit under sub.(9) (bm)is made by the owner of the principal dwelling.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_5m">
+            <num>(5m)</num>
+            <content>
+              <p>79.10(5m)  First dollar credit. Each municipality shall receive, from the appropriation under s.20.835 (3) (b), an amount determined by multiplying the school tax rate by the estimated fair market value, not exceeding the value determined under sub.(11) (d), of every parcel of real property with improvements that is located in the municipality.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_6m">
+            <num>(6m)</num>
+            <content>
+              <p>79.10(6m)  Corrections of state property tax credit payments.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_7m">
+            <num>(7m)</num>
+            <content>
+              <p>79.10(7m)  Distribution.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_8">
+            <num>(8)</num>
+            <content>
+              <p>79.10(8)  Delayed payments.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_9">
+            <num>(9)</num>
+            <content>
+              <p>79.10(9)  Credit against tax liability.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-10__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>79.10(10)  Claiming the lottery and gaming credit.</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-11">
+          <num>79.11</num>
+          <heading>Payment of tax credits</heading>
+          <subsection eId="79-11__subsec_10">
+            <num>(10)</num>
+            <content>
+              <p>79.10(10)  Claiming the lottery and gaming credit.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-11__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>79.10(11)  Lottery and gaming credit estimated fair market value.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-11__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.11(1)  The extension of the tax credits authorized by s.79.10on the tax roll shall be deemed payment of that portion of the total tax due on property to which such credits are applicable.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-11__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.11(2)  Except as provided in s.79.10 (10) (d), the payment of the difference between the total tax which is due on any property less the amount of the tax credits applicable to such property authorized by this subchapter shall be considered payment in full of the property taxes due thereon in that year.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-11__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.11(3)</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-14">
+          <num>79.14</num>
+          <heading>Payment of tax credits</heading>
+          <subsection eId="79-14__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>79.10(11)  Lottery and gaming credit estimated fair market value.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-14__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.11(1)  The extension of the tax credits authorized by s.79.10on the tax roll shall be deemed payment of that portion of the total tax due on property to which such credits are applicable.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-14__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.11(2)  Except as provided in s.79.10 (10) (d), the payment of the difference between the total tax which is due on any property less the amount of the tax credits applicable to such property authorized by this subchapter shall be considered payment in full of the property taxes due thereon in that year.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-14__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.11(3)</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-15">
+          <num>79.15</num>
+          <heading>Payment of tax credits</heading>
+          <subsection eId="79-15__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>79.10(11)  Lottery and gaming credit estimated fair market value.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-15__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.11(1)  The extension of the tax credits authorized by s.79.10on the tax roll shall be deemed payment of that portion of the total tax due on property to which such credits are applicable.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-15__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.11(2)  Except as provided in s.79.10 (10) (d), the payment of the difference between the total tax which is due on any property less the amount of the tax credits applicable to such property authorized by this subchapter shall be considered payment in full of the property taxes due thereon in that year.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-15__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.11(3)</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-175">
+          <num>79.175</num>
+          <heading>Payment of tax credits</heading>
+          <subsection eId="79-175__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>79.10(11)  Lottery and gaming credit estimated fair market value.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-175__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.11(1)  The extension of the tax credits authorized by s.79.10on the tax roll shall be deemed payment of that portion of the total tax due on property to which such credits are applicable.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-175__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.11(2)  Except as provided in s.79.10 (10) (d), the payment of the difference between the total tax which is due on any property less the amount of the tax credits applicable to such property authorized by this subchapter shall be considered payment in full of the property taxes due thereon in that year.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-175__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.11(3)</p>
+            </content>
+          </subsection>
+        </section>
+        <section eId="sec_79-18">
+          <num>79.18</num>
+          <heading>Payment of tax credits</heading>
+          <subsection eId="79-18__subsec_11">
+            <num>(11)</num>
+            <content>
+              <p>79.10(11)  Lottery and gaming credit estimated fair market value.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-18__subsec_1">
+            <num>(1)</num>
+            <content>
+              <p>79.11(1)  The extension of the tax credits authorized by s.79.10on the tax roll shall be deemed payment of that portion of the total tax due on property to which such credits are applicable.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-18__subsec_2">
+            <num>(2)</num>
+            <content>
+              <p>79.11(2)  Except as provided in s.79.10 (10) (d), the payment of the difference between the total tax which is due on any property less the amount of the tax credits applicable to such property authorized by this subchapter shall be considered payment in full of the property taxes due thereon in that year.</p>
+            </content>
+          </subsection>
+          <subsection eId="79-18__subsec_3">
+            <num>(3)</num>
+            <content>
+              <p>79.11(3)</p>
+            </content>
+          </subsection>
+        </section>
+      </chapter>
+    </body>
+  </act>
+</akomaNtoso>
